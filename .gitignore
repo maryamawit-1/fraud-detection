@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+data/processed/
+
+data/raw/
+
+
+Code
+.vscode/
+
+models/
+
+
+.DS_Store
